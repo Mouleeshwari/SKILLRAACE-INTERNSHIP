@@ -41,13 +41,20 @@ In this task, we aim to predict the number of bike ride requests for a particula
 
 ## Phase III - Task 3: Health Disorder Predictor Using Machine Learning
 
-This task aims to implement a robust machine-learning model to predict the disease a person may have based on their symptoms. This involves:
+Task 3 Health information needs are also changing the information seeking behavior and can be observed around the globe. Challenges faced by many people are looking online for health information regarding diseases, diagnoses and different treatments. If a recommendation system can be made for doctors and medicine while using review mining will save a lot of time. In this type of system, the user face problem in understanding the heterogeneous medical vocabulary as the users are laymen. User is confused because a large amount of medical information on different mediums are available.The idea behind recommender system is to adapt to cope with the special requirements of the health domain related with users.
 
 - Data collection: Gathering a dataset containing various health disorders and associated symptoms.
 - Data preprocessing: Cleaning and preparing the data for modeling, including handling missing values and encoding categorical variables.
 - Model selection: Choosing suitable machine learning algorithms (e.g., logistic regression, support vector machines, random forests) for classification.
 - Model training and evaluation: Training the selected models on the dataset and evaluating their performance using metrics such as accuracy, precision, recall, and F1-score.
 - Deployment: Creating a user-friendly interface for the model where users can input symptoms and receive predictions about possible health disorders.
+
+Task 3.ipynb  This is the file which consist of dataset and there are various differnt algorithms used for training of our model which are as follows:
+
+Decision Tree
+Random Forest
+KNearestNeighbour
+Naive Bayes These four algorithms is used to train our model and all gives an accuracy of over 90
 
 
 
