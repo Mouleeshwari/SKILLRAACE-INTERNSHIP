@@ -1,7 +1,4 @@
 # SKILLRAACE-INTERNSHIP
-Here's a detailed description for each task to include in your README file on GitHub:
-
----
 
 ## Task 1A - Implementation of Decision Tree Algorithm Using ML Fundamentals
 
@@ -52,41 +49,5 @@ This task aims to implement a robust machine-learning model to predict the disea
 - Model training and evaluation: Training the selected models on the dataset and evaluating their performance using metrics such as accuracy, precision, recall, and F1-score.
 - Deployment: Creating a user-friendly interface for the model where users can input symptoms and receive predictions about possible health disorders.
 
----
 
-## How to Run
-
-1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/your-username/your-repository.git
-   ```
-2. **Navigate to the Project Directory:**
-   ```sh
-   cd your-repository
-   ```
-3. **Install Dependencies:**
-   ```sh
-   pip install -r requirements.txt
-   ```
-4. **Run the Programs:**
-   - For Decision Tree Algorithm:
-     ```sh
-     python decision_tree.py
-     ```
-   - For Back Propagation Algorithm:
-     ```sh
-     python back_propagation.py
-     ```
-   - For Naïve Bayesian Classifier:
-     ```sh
-     python naive_bayes_classifier.py
-     ```
-   - For Rapido Bike Ride Request Forecast:
-     ```sh
-     python ride_request_forecast.py
-     ```
-   - For Health Disorder Predictor:
-     ```sh
-     python health_disorder_predictor.py
-     ```
 
